@@ -200,3 +200,7 @@ sysinfo.txt
 # Ignore all local history of files
 .history
 .ionide
+.idea/.idea.Varto-Doodle-Jump-2D/.idea/encodings.xml
+.idea/.idea.Varto-Doodle-Jump-2D/.idea/indexLayout.xml
+.idea/.idea.Varto-Doodle-Jump-2D/.idea/misc.xml
+.idea/.idea.Varto-Doodle-Jump-2D/.idea/vcs.xml
